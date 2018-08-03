@@ -1,0 +1,3 @@
+rootProject.name = 'R_201830_PromiseIntroVideo'
+
+include ':app'
